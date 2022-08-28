@@ -1,0 +1,27 @@
+html {
+	background-image: url(https://www.freepik.com/photos/background);
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h1 {
+	text-align: center;
+}
+.topnav{
+	text-align: left;
+}
+.topnav a{
+	float: left;
+	color: black;
+	text-align: center;
+	padding: 14px;
+	font-size: 25px;
+}
+.topnav a:hover{
+	background-color: white;
+	color:white;
+}
+h2{
+	font-size: 18;
+}
